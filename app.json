@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Mira ile Öğreniyorum",
+    "slug": "mira-ile-ogreniyorum",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF4FA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.miraileogreniyorum.app",
+      "versionCode": 1
+    }
+  }
+}
